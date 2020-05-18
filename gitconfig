@@ -1,0 +1,5 @@
+# cSpell: word tdiff
+[alias]
+    # Turbo Diff: It compares two commits, not two working directories referenced by the commit hashes.
+    #             Bash invocation is required because sh does not support Process Substitution.
+    tdiff = '!f() { bash -c "diff <(git show $1) <(git show $2)"; }; f'

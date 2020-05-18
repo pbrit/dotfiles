@@ -1,0 +1,14 @@
+= dotfiles: a lifelong endeavour
+Doc Writer <paulbrit44@gmail.com>
+v0.1, 05-18-2020
+:toc:
+:imagesdir: assets/images
+
+= Pillars
+* dotfiles are meant to be public, therefore, no sensetive information can be stored here.
+* Windows, MacOS, and Linux must be equally supported.
+
+= References
+* https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/[Inspired By]
+* https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[Syntax Reference]
+* https://asciidoctor.org/docs/asciidoc-writers-guide/[Writers Guide]
